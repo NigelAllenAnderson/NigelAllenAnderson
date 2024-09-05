@@ -1,9 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Raphael aka Nigel!</h1>
-<h3 align="center">I'm a Full-Stack developer out of Australia!</h3>
 
-- 🔭 I’m currently working on **Ontime by Gigging.app**
-
-- 💬 Ask me about **Rust, Penetration Testing / Cyber Security, AI/ML**
+I'm a full stack developer currently working as a software developer, My major pashions are AI/ML, Cyber Security (specifically web penetration testing) and maintaining my ever growing homelab (truenas anyone? 👀), Welcome to my page!
   
 <h3 align="left">Languages:</h3>
 <p align="left">
