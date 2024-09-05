@@ -5,14 +5,14 @@ I'm a full stack developer currently working as a software developer, My major p
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,html,css,py,js" />
+    <img src="https://skillicons.dev/icons?i=rust,html,css,py" />
   </a>
 </p>
 
 <h3 align="left">Frontend & Backend Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,yew,flask,django,wordpress,nodejs,nginx" />
+    <img src="https://skillicons.dev/icons?i=yew,flask,wordpress,nodejs,nginx" />
   </a>
 </p>
 
