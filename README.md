@@ -6,7 +6,7 @@
 - 💬 Ask me about **Rust, Penetration Testing / Cyber Security, AI/ML**
   
 <h3 align="left">Languages:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,html,css,py,js" />
   </a>
